@@ -1,2 +1,0 @@
-# ProjetosSenior
-Desafios Senior
