@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/11 16:30:38.000.979,=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/11 16:33:14.000.330,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ProjetosSenior\2 - Média\ufrmPrincipal.pas</Transaction>
+    <Transaction>2021/06/11 16:33:14.000.330,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ProjetosSenior\2 - Média\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2021/06/11 16:33:31.000.381,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\QS7.dproj</Transaction>
+    <Transaction>2021/06/11 16:33:59.000.377,=C:\ProjetosSenior\2 - Média\uIMaquina.pas</Transaction>
+    <Transaction>2021/06/11 16:33:59.000.432,=C:\ProjetosSenior\2 - Média\uTroco.pas</Transaction>
+    <Transaction>2021/06/11 16:33:59.000.404,=C:\ProjetosSenior\2 - Média\uMaquina.pas</Transaction>
+    <Transaction>2021/06/11 16:41:46.000.075,=C:\Users\Marcos\Desktop\Oficial\2 - média\uMaquinaDinheiro.pas</Transaction>
+    <Transaction>2021/06/11 17:18:58.000.998,C:\Users\Marcos\Desktop\Oficial\2 - média\uMaquinaDinheiro.pas=</Transaction>
+    <Transaction>2021/06/12 14:37:09.000.853,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\QS7.dproj=C:\ProjetosSenior\2 - Média\QS7.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
