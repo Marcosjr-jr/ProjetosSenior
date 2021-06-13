@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/11 13:58:16.000.646,=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/11 13:59:11.000.417,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ProjetosSenior\1 - Simples\ufrmPrincipal.pas</Transaction>
+    <Transaction>2021/06/11 13:59:11.000.417,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ProjetosSenior\1 - Simples\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2021/06/11 13:59:21.000.309,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\QS6.dproj</Transaction>
+    <Transaction>2021/06/11 13:59:45.000.496,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\QS6.dproj=C:\ProjetosSenior\1 - Simples\QS6.dproj</Transaction>
+    <Transaction>2021/06/11 14:00:21.000.975,=C:\ProjetosSenior\1 - Simples\uSubstitui.pas</Transaction>
+    <Transaction>2021/06/11 14:00:21.000.946,=C:\ProjetosSenior\1 - Simples\uISubstitui.pas</Transaction>
+    <Transaction>2021/06/11 14:40:48.000.781,=C:\Users\Marcos\Desktop\Oficial\1 - simples\uString.pas</Transaction>
+    <Transaction>2021/06/11 14:48:44.995,C:\Users\Marcos\Desktop\Oficial\1 - simples\uString.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
