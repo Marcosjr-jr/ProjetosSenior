@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/12 16:09:16.000.313,=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/12 16:12:03.000.591,=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/12 16:12:39.000.641,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\QC2.dproj</Transaction>
+    <Transaction>2021/06/12 16:13:24.000.944,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ProjetosSenior\3 - Complexo\ufrmPrincipal.pas</Transaction>
+    <Transaction>2021/06/12 16:13:24.000.944,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ProjetosSenior\3 - Complexo\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2021/06/12 16:13:35.000.888,C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\QC2.dproj=C:\ProjetosSenior\3 - Complexo\QC2.dproj</Transaction>
+    <Transaction>2021/06/12 16:14:10.000.342,=C:\ProjetosSenior\3 - Complexo\uMemo.pas</Transaction>
+    <Transaction>2021/06/12 16:14:10.000.266,=C:\ProjetosSenior\3 - Complexo\uComponente.pas</Transaction>
+    <Transaction>2021/06/12 16:14:10.000.223,=C:\ProjetosSenior\3 - Complexo\uBotao.pas</Transaction>
+    <Transaction>2021/06/12 16:14:10.000.289,=C:\ProjetosSenior\3 - Complexo\uFrame.pas</Transaction>
+    <Transaction>2021/06/12 16:14:10.000.318,=C:\ProjetosSenior\3 - Complexo\uLabel.pas</Transaction>
+    <Transaction>2021/06/12 16:18:57.000.358,=C:\ProjetosSenior\3 - Complexo\Unit1.pas</Transaction>
+    <Transaction>2021/06/12 16:21:07.000.890,C:\ProjetosSenior\3 - Complexo\Unit1.dfm=C:\ProjetosSenior\3 - Complexo\uFramePrincipal.dfm</Transaction>
+    <Transaction>2021/06/12 16:21:07.000.890,C:\ProjetosSenior\3 - Complexo\Unit1.pas=C:\ProjetosSenior\3 - Complexo\uFramePrincipal.pas</Transaction>
+    <Transaction>2021/06/12 16:43:55.000.765,C:\ProjetosSenior\3 - Complexo\uFramePrincipal.pas=</Transaction>
+    <Transaction>2021/06/12 17:03:54.000.740,=C:\ProjetosSenior\3 - Complexo\Unit1.pas</Transaction>
+    <Transaction>2021/06/12 17:04:22.000.090,C:\ProjetosSenior\3 - Complexo\Unit1.pas=C:\ProjetosSenior\3 - Complexo\uframePrincipal.pas</Transaction>
+    <Transaction>2021/06/12 17:04:22.000.090,C:\ProjetosSenior\3 - Complexo\Unit1.dfm=C:\ProjetosSenior\3 - Complexo\uframePrincipal.dfm</Transaction>
+    <Transaction>2021/06/12 18:40:40.000.117,C:\ProjetosSenior\3 - Complexo\uframePrincipal.pas=</Transaction>
+    <Transaction>2021/06/12 20:03:44.000.508,=C:\ProjetosSenior\3 - Complexo\Vcl.Controls.pas</Transaction>
+    <Transaction>2021/06/13 13:23:17.210,C:\ProjetosSenior\3 - Complexo\Vcl.Controls.pas=</Transaction>
+    <Transaction>2021/06/13 13:28:32.616,C:\ProjetosSenior\3 - Complexo\ufrmPrincipal.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
